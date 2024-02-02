@@ -1,0 +1,2 @@
+docker exec -it containertp /bin/sh
+docker run -it oscarpast/oscartd3:latest /bin/sh
